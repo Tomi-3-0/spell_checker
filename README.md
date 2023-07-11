@@ -16,3 +16,6 @@ where *text* is the file you wish to spell-check. `dictionaries/small` is a smal
 `./speller dictionaries/small text`
 
 where _text_ is the file you wish to spell-check
+
+## References
+- [HavardCS50](https://cs50.harvard.edu/x/2023/psets/5/speller/)
